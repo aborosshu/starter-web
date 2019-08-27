@@ -16,5 +16,3 @@ contr.
 korte
 
 ## CR
-
-cr
