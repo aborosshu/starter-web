@@ -14,5 +14,3 @@ contr.
 ## alma
 
 korte
-
-## CR
